@@ -80,9 +80,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "df6d535c0b13e425c7bcd1ba900f3c66",
-"/": "df6d535c0b13e425c7bcd1ba900f3c66",
-"main.dart.js": "77fd5bbb8528dadee6a9b3db98c110cd",
+"index.html": "646826f634c3711675763cf120fd5b4c",
+"/": "646826f634c3711675763cf120fd5b4c",
+"main.dart.js": "68ab9e20b24d785a17f248a20652769e",
 "manifest.json": "eb0967c213ff3e1cc1170c85fc8b5515",
 "version.json": "e9eb58db72d407be27e9fa052224c304"
 };
